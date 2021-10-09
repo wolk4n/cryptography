@@ -32,5 +32,5 @@ Wordlist, içerisinde birçok farklı sözcük ve şifre kombinasyonu barındır
 
 * Daha geniş bir wordliste ihtiyacınız varsa "_rockyou.txt_" dosyasını kullanın!
 
-Rockyou.txt dosyası için:"https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+Rockyou.txt dosyası için:https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
