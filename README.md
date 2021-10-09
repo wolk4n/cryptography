@@ -9,4 +9,4 @@ Bu programlar kriptografi de en çok kullanılan **(md5,sha1,sha256)** algoritma
 * Ve belirlediğimiz kelimenin hash algoritması oluşuyor.
 
 #### Program içi görüntü:
-<img src="https://github.com/wolkann/termux-tools/blob/main/imgs/indirilecek_olan_programlar.jpeg" width="500" height="500">
+<img src="https://github.com/wolkann/cryptography/blob/main/img/encode.png">
