@@ -1,3 +1,5 @@
+# coded by wolkan @ 2021
+
 import hashlib
 from typing import _SpecialForm 
 
