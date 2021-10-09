@@ -4,6 +4,7 @@ Bu programlar kriptografi de en çok kullanılan **(md5,sha1,sha256)** algoritma
 ---
 
 ### "encode.py" Kullanımı
+* `python3 encode.py` Yazarak programı çalıştırıyoruz.
 * Algoritma listesinde şifrelemek istediğimiz algoritmayı seçiyoruz.
 * Şifrelemek istediğimiz kelimeyi yazıyoruz.
 * Ve belirlediğimiz kelimenin hash algoritması oluşuyor.
