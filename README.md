@@ -11,3 +11,11 @@ Bu programlar kriptografi de en çok kullanılan **(md5,sha1,sha256)** algoritma
 
 #### Program içi görüntü:
 <img src="https://github.com/wolkann/cryptography/blob/main/img/encode.png">
+
+---
+
+### "decode.py" Kullanımı
+* `python3 decode.py` Yazarak programı çalıştırıyoruz.
+* Şifresini kırmak istediğimiz algoritmayı seçiyoruz.
+* Wordlist dosyamızın dosya yolunu yazıyoruz **(e.g "/root/Desktop/wordlist.txt" )**
+*
