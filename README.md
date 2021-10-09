@@ -17,5 +17,8 @@ Bu programlar kriptografi de en çok kullanılan **(md5,sha1,sha256)** algoritma
 ### "decode.py" Kullanımı
 * `python3 decode.py` Yazarak programı çalıştırıyoruz.
 * Şifresini kırmak istediğimiz algoritmayı seçiyoruz.
-* Wordlist dosyamızın dosya yolunu yazıyoruz **(örnek:"/root/Desktop/wordlist.txt" )**
-*
+* Wordlist dosyamızın dosya yolunu yazıyoruz.
+* Kırmak istediğimiz hash'i yazıyoruz.
+
+#### Program içi görüntü:
+<img src="https://github.com/wolkann/cryptography/blob/main/img/decode.png">
