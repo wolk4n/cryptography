@@ -22,3 +22,8 @@ Bu programlar kriptografi de en çok kullanılan **(md5,sha1,sha256)** algoritma
 
 #### Program içi görüntü:
 <img src="https://github.com/wolkann/cryptography/blob/main/img/decode.png">
+
+---
+
+### Wordlists
+Wordlist, içerisinde birçok farklı sözcük ve şifre kombinasyonu barındıran kelime listesidir. Bu kelime listeler şifre kırmaya yönelik saldırıların olmazsa olmaz işlemidir. Wordlist’in içerisindeki kelime şifreyi kırması durumda saldırı sonuçlanır. Eğer Wordlist şifreyi içermiyorsa tamamen kullanışsız olur bu sebepten dolayı daha geniş Wordlist yapılan saldırıların başarısını arttırma konusunda oldukça önemlidir.
