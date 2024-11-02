@@ -15,7 +15,7 @@ Bu programlar hash algoritmasında en çok kullanılan **(md5,sha1,sha256)** şi
 * Ve belirlediğimiz kelimenin hash algoritması oluşuyor.
 
 #### Program içi görüntü:
-<img src="https://github.com/wolkann/cryptography/blob/main/img/encode.png">
+<img src="https://github.com/wolk4n/malware-analyzer/blob/main/imgs/cli.jpg">
 
 ---
 
